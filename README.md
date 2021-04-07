@@ -38,7 +38,8 @@
 <p align="left">
   <ul>
     <li>TensorFlow Developer Certificate</li>
-    <li>Linux Master first rate</li>
+    <li>Linux Master Level-1</li>
+    <li>Computer Specialist in Spreadsheet & Database Level-1</li>
    </ul>
 </p>
 <!--

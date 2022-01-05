@@ -37,28 +37,17 @@
 <h5 align="left"><b>💷Certification</b></h5>
 <p align="left">
   <ul>
-     <li> CPPG 개인정보관리사</li>
-
+    <li> CPPG 개인정보관리사</li>
     <li>LPIC-1(국제)</li>
-
- <li>Google Tensorflow Certificate(국제)</li>
-
- <li>AZURE Security Engineer Certificate(국제)</li>
-
- <li>SQL 개발자(국가공인)</li>
-
- <li>CompTIA Security+ (국제)</li>
-
- <li>컴퓨터활용능력 1급 (국가기술)</li>
-
- <li>워드프로세서 (국가기술)</li>
-
- <li>GTQ 1급 (국가공인)</li>
-
- <li>GTQi 1급 (국가공인)</li>
-
- <li>GTQ인턴강사, 일반강사</li>
-
+    <li>Google Tensorflow Certificate(국제)</li>
+    <li>AZURE Security Engineer Certificate(국제)</li>
+    <li>SQL 개발자(국가공인)</li>
+    <li>CompTIA Security+ (국제)</li>
+    <li>컴퓨터활용능력 1급 (국가기술)</li>
+    <li>워드프로세서 (국가기술)</li>
+    <li>GTQ 1급 (국가공인)</li>
+    <li>GTQi 1급 (국가공인)</li>
+    <li>GTQ인턴강사, 일반강사</li>
    </ul>
 </p>
 <!--

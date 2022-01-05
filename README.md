@@ -37,11 +37,9 @@
 <h5 align="left"><b>💷Certification</b></h5>
 <p align="left">
   <ul>
+     <li> CPPG 개인정보관리사</li>
 
-
-    <li> CPPG 개인정보관리사</li>
-
- <li>LPIC-1(국제)</li>
+    <li>LPIC-1(국제)</li>
 
  <li>Google Tensorflow Certificate(국제)</li>
 
